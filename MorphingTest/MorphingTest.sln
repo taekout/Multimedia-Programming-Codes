@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MorphingTest", "MorphingTest\MorphingTest.vcproj", "{DDC2B959-B7C5-4E81-952B-6680E0353BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC2B959-B7C5-4E81-952B-6680E0353BCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDC2B959-B7C5-4E81-952B-6680E0353BCB}.Debug|Win32.Build.0 = Debug|Win32
+		{DDC2B959-B7C5-4E81-952B-6680E0353BCB}.Release|Win32.ActiveCfg = Release|Win32
+		{DDC2B959-B7C5-4E81-952B-6680E0353BCB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
